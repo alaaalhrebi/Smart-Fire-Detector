@@ -19,3 +19,13 @@ A simple yet effective fire detection system using a pre-trained deep learning m
 ```bash
 git clone https://github.com/alaaalhrebi/fire-detection-ai.git
 cd fire-detection-ai
+
+## 🔗 Model File (Google Drive)
+This project uses a pre-trained model stored on Google Drive due to file size limitations.
+
+The model will be downloaded automatically when the app runs using the `gdown` library.
+
+**Google Drive Link:** [Download model](https://drive.google.com/file/d/1BO4aQ_Og1CF5OihOsAGtUsxRZMxENPCA/view?usp=sharing)
+
+> Make sure the file is public: "Anyone with the link can view"
+
