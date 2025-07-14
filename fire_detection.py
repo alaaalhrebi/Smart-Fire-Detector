@@ -5,13 +5,10 @@ from tensorflow.keras.models import load_model
 from playsound import playsound
 import threading
 
-# تحميل النموذج
 model = load_model('fire_detection_model.h5')
 
-# فتح الكاميرا
 cap = cv2.VideoCapture(0)
 
-# دالة تشغيل الإنذار
 def play_alarm():
     playsound('alarm.mp3')
 
