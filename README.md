@@ -17,5 +17,5 @@ A simple yet effective fire detection system using a pre-trained deep learning m
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/fire-detection-ai.git
+git clone https://github.com/alaaalhrebi/fire-detection-ai.git
 cd fire-detection-ai
